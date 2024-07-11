@@ -1,2 +1,2 @@
-TOKEN = '6324372139:AAFqZkzaNAntEG7L3vS7lG_drqn_MdhzQGg'
+TOKEN = ''
 DATABASE = 'My_pay.db'
